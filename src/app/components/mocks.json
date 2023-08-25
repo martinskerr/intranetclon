@@ -1,0 +1,11 @@
+{
+
+"imagenes":[
+    {
+    "nombre":"icons",
+    "route":"./"
+    }
+]
+
+
+}
